@@ -1,0 +1,31 @@
+{
+"sdp_file_path" : "OpenSut_ARbitration_Automation\\OpenSUT_Example.sdp",
+"osa_file_path" : "OpenSut_ARbitration_Automation\\VEcuImplementations\\OpenSUT_Example\\Build\\OpenSUT_Example.osa",
+
+"v_ecu_name" : "OpenSUT_Example",
+"container_file_path" : "OpenSut_ARbitration_Automation\\VEcuImplementations\\OpenSUT_Example.vecu",
+"veos_build_tool" : "D:\\dSPACE_Use\\dSPACE VEOS 5.1\\Bin\\veos-build.exe",
+"output_file" : "OpenSut_ARbitration_Automation\\VEcuImplementations\\OpenSUT_Example\\Build\\OpenSUT_Example.osa",
+"build_directory": "OpenSut_ARbitration_Automation\\VEcuImplementations\\OpenSUT_Example\\Build",
+"log_file_path ": "OpenSUT_Example.Build.log",
+"target" : "HostPC32/GCC",
+"xcp_service_port" : "None",
+"compiler_options": "None",
+"cpp_compiler_options": "None",
+"preprocessor_defines" : [  ],
+"additional_code_files": [  ],
+"code_coverage_level": "None",
+"show_all_warnings" : false,
+"configuration" :"Debug",
+"osa_author" : "None",
+	
+"dap_arxml" : "VEOS\\VEOS_Build\\OpenSUT_Example\\ExtractedData\\OpenSUT_Example.Dap\\Dap.arxml",
+"module" : "Dap",
+
+"zip_filename":"Vecu",
+"jfrog_repo":"sandbox-classic",
+"ecu_sprint_number":"PI2.1",
+"ecu_name":"BCM",
+"artifact_path":"project\\VEcu\\OpenSut_ARbitration_Automation\\VEcuImplementations\\OpenSUT_Example\\Build\\OpenSUT_Example.osa"
+
+}
